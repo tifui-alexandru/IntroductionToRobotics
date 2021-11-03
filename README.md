@@ -28,7 +28,6 @@ https://www.youtube.com/watch?v=8zxyjhGv500
 </details>
 
 <br>
-<br>
 
 # Homework 2 - Light up an RGB led
 <details>
