@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=8zxyjhGv500
 
 
 
-# Homework 2 - Light up an RGB led
+# Homework 2 - Traffic lights for a crosswalk
 <details>
 <br>
 
