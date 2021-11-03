@@ -27,7 +27,7 @@ Use a separat potentiometer in controlling each of the color of the RGB led (Red
 https://www.youtube.com/watch?v=8zxyjhGv500
 </details>
 
-<br>
+
 
 # Homework 2 - Light up an RGB led
 <details>
