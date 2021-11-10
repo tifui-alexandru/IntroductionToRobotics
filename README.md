@@ -68,3 +68,30 @@ Be  careful: pressing the button in any state other than state 1 should NOT yiel
 
 https://www.youtube.com/watch?v=Hli1Vo9i5Wc
 </details>
+
+
+# Homework 3 - EMF detector (Ghost detector)
+<details>
+<br>
+
+## Components
+
+* 1 7-segment display
+* 1 antenna
+* 1 buzzer
+* resistors and wires (per logic)
+
+## Task Requirement
+
+Build a Ghost detector which is basically an EMF detector.
+
+## Setup
+
+![setup image 1](./homework_3/assets/setup1.jpeg)
+
+![setup image 2](./homework_3/assets/setup2.jpeg)
+
+## Demo
+
+https://www.youtube.com/watch?v=cJnMEKBt7Ck
+</details>
