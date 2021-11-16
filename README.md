@@ -89,7 +89,7 @@ Build a Ghost detector which is basically an EMF detector.
 
 ![setup image 1](./homework_3&#32;-&#32;EMF&#32;detector/assets/setup1.jpeg)
 
-![setup image 2](./homework_3&#32;-&#32;EMF&#32;detector/assets/setup1.jpeg)
+![setup image 2](./homework_3&#32;-&#32;EMF&#32;detector/assets/setup2.jpeg)
 
 ## Demo
 
@@ -120,7 +120,7 @@ In the second state, the decimal point stays always on, no longer blinking and y
 
 ![setup image 1](./homework_4&#32;-&#32;4&#32;digit&#32;7-segment&#32;display/assets/setup1.jpeg)
 
-![setup image 2](./homework_4&#32;-&#32;4&#32;digit&#32;7-segment&#32;display/assets/setup1.jpeg)
+![setup image 2](./homework_4&#32;-&#32;4&#32;digit&#32;7-segment&#32;display/assets/setup2.jpeg)
 
 ## Demo
 
