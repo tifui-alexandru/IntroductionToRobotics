@@ -18,9 +18,9 @@ Use a separat potentiometer in controlling each of the color of the RGB led (Red
 
 ## Setup
 
-![setup image 1](./homework_1/assets/setup1.jpeg)
+![setup image 1](./homework_1&#32;-&#32;RGB&#32;Led/assets/setup1.jpeg)
 
-![setup image 2](./homework_1/assets/setup2.jpeg)
+![setup image 2](./homework_1&#32;-&#32;RGB&#32;Led/assets/setup2.jpeg)
 
 ## Demo
 
@@ -60,9 +60,9 @@ Be  careful: pressing the button in any state other than state 1 should NOT yiel
 
 ## Setup
 
-![setup image 1](./homework_2/assets/setup1.jpeg)
+![setup image 1](./homework_2&#32;-&#32;Traffic&#32;lights/assets/setup1.jpeg)
 
-![setup image 2](./homework_2/assets/setup2.jpeg)
+![setup image 2](./homework_2&#32;-&#32;Traffic&#32;lights/assets/setup2.jpeg)
 
 ## Demo
 
@@ -87,9 +87,9 @@ Build a Ghost detector which is basically an EMF detector.
 
 ## Setup
 
-![setup image 1](./homework_3/assets/setup1.jpeg)
+![setup image 1](./homework_3&#32;-&#32;EMF&#32;detector/assets/setup1.jpeg)
 
-![setup image 2](./homework_3/assets/setup2.jpeg)
+![setup image 2](./homework_3&#32;-&#32;EMF&#32;detector/assets/setup1.jpeg)
 
 ## Demo
 
@@ -118,9 +118,9 @@ In the second state, the decimal point stays always on, no longer blinking and y
 
 ## Setup
 
-![setup image 1](./homework_4/assets/setup1.jpeg)
+![setup image 1](./homework_4&#32;-&#32;4&#32;digit&#32;7-segment&#32;display/assets/setup1.jpeg)
 
-![setup image 2](./homework_4/assets/setup2.jpeg)
+![setup image 2](./homework_4&#32;-&#32;4&#32;digit&#32;7-segment&#32;display/assets/setup1.jpeg)
 
 ## Demo
 
