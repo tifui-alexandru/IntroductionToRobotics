@@ -3,7 +3,7 @@
 Homeworks from the "Introduction to Robotics" laboratory taken at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 # Homework 1 - Light up an RGB led
-<details>
+<!-- <details> -->
 <br>
 
 ## Components
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=8zxyjhGv500
 
 
 # Homework 2 - Traffic lights for a crosswalk
-<details>
+<!-- <details> -->
 <br>
 
 ## Components
@@ -71,7 +71,7 @@ https://www.youtube.com/watch?v=Hli1Vo9i5Wc
 
 
 # Homework 3 - EMF detector (Ghost detector)
-<details>
+<!-- <details> -->
 <br>
 
 ## Components
@@ -94,4 +94,35 @@ Build a Ghost detector which is basically an EMF detector.
 ## Demo
 
 https://www.youtube.com/watch?v=cJnMEKBt7Ck
+</details>
+
+
+# Homework 4 - Set digits on a 4 digit 7-segment display
+<!-- <details> -->
+<br>
+
+## Components
+
+* joystick
+* 4 digit 7-segment display
+* 74hc595 shiftregister
+* resistors and wires (per logic)
+
+## Task Requirement
+
+The current homework involves using a joystick in setting the values on each digit of a 4 digit 7-segment display connected to a shift register 74hc595. For maximum grade, you muse use interrupts, and for bonus you can save the last value in eeprom.
+
+First state: you can use a joystick axis to cycle through the 4 digits; using the other axis does nothing. A blinking decimal point showsthe current digit position. When pressing the button (must use interruptfor maximum points!), you lock in on the selected digit and enter the second state.
+
+In the second state, the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle through the 4 digits. Instead, using the other axis, you can increment or decrement the number on the current digit. Pressing the button again returns you to the previous state. For bonus, save the last value in eeprom and load it when starting arduino.  Also, keep in mind that when changing the number, you mustincrement it for each joystick movement - it should not work continuosly increment if you keep the joystick in one position.
+
+## Setup
+
+![setup image 1](./homework_4/assets/setup1.jpeg)
+
+![setup image 2](./homework_4/assets/setup2.jpeg)
+
+## Demo
+
+https://www.youtube.com/watch?v=qAyXn6Z11QE
 </details>
