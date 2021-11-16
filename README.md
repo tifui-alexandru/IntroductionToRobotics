@@ -3,7 +3,7 @@
 Homeworks from the "Introduction to Robotics" laboratory taken at the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 # Homework 1 - Light up an RGB led
-<!-- <details> -->
+<details>
 <br>
 
 ## Components
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=8zxyjhGv500
 
 
 # Homework 2 - Traffic lights for a crosswalk
-<!-- <details> -->
+<details>
 <br>
 
 ## Components
@@ -71,7 +71,7 @@ https://www.youtube.com/watch?v=Hli1Vo9i5Wc
 
 
 # Homework 3 - EMF detector (Ghost detector)
-<!-- <details> -->
+<details>
 <br>
 
 ## Components
@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=cJnMEKBt7Ck
 
 
 # Homework 4 - Set digits on a 4 digit 7-segment display
-<!-- <details> -->
+<details>
 <br>
 
 ## Components
